@@ -1,9 +1,13 @@
 # 2D Project bootstrap
+Personal repo used to fork repos for game jams or rapid prototyping.
 
 ## Added
 * placeholder shape sprites
 * dummy GameController
 * .gitignore
+
+## Credits
+* silly placeholder sprites https://ninjikin.itch.io/silly-placeholders
 
 ## Planning to add
 * Main Menu scene, easy to skin 
